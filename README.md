@@ -10,7 +10,7 @@ Console Application using CRUD with SQLite Database
 - [x] You should handle all possible errors so that the application never crashes
 - [x] The application should only be terminated when the user inserts 0.
 - [x] You can only interact with the database using raw SQL. You can’t use mappers such as Entity Framework Reporting Capabilities
-- [x]This is an application where you’ll register one habit.
+- [x] This is an application where you’ll register one habit.
 - [x] This habit can't be tracked by time (ex. hours of sleep), only by quantity (ex. number of water glasses a day)
 - [x] The application should store and retrieve data from a real database
 - [x] When the application starts, it should create a sqlite database, if one isn’t present.
